@@ -3,4 +3,4 @@
 
 <img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture.png" width="800" height="600"/>
 
-**Result**: the colour indicated the initial velocity of the stellar orbit in z direction. Levitation occurs when Rmax is between 12.8 (kpc) and 12.9 (kpc).
+**Result**: the colour indicated the initial velocity of the stellar orbit in z direction. Levitation occurs when Rmax is between 12.8(kpc) and 12.9(kpc).
