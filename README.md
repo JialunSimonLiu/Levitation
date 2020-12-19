@@ -5,8 +5,10 @@
 
 **Levitation:** The following diagram demonstrates the levitaion process after modelling the velocity of 500 stellar orbits as having a Gaussian distribution.
 
-<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture.png" width="800" height="600"/>
+<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture1.png" width="800" height="600"/>
 
 **Result**: the colour indicated the initial velocity of the stellar orbit in z direction. Levitation occurs when Rmax is between 12.8(kpc) and 12.9(kpc).
 
 **1:1 resonance:** The following plots are fourier transform of the frequency in 
+
+<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture2.png" width="800" height="600"/>
