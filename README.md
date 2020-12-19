@@ -9,6 +9,8 @@
 
 **Result**: the colour indicated the initial velocity of the stellar orbit in z direction. Levitation occurs when Rmax is between 12.8(kpc) and 12.9(kpc).
 
-**1:1 resonance:** The following plots are fourier transform of the frequency in 
+**1:1 resonance:** The following plot containes the resoances in a stellar orbit with a fixed potential.
 
 <img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture2.png" width="700" height="500"/>
+
+**Result**: the colour indicated the initial velocity of the stellar orbit in z direction. Levitation occurs when Rmax is between 12.8(kpc) and 12.9(kpc).
