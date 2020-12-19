@@ -11,4 +11,4 @@
 
 **1:1 resonance:** The following plots are fourier transform of the frequency in 
 
-<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture2.png" width="600" height="500"/>
+<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture2.png" width="700" height="500"/>
