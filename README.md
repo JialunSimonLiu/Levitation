@@ -3,6 +3,10 @@
 
 **What is the algorithm about?** To investigate the stellar levitation upon a heating disk, the algorithm contains simple orbit simulations of stars in the McMillan (2017) potential, a leapfrog algorithm to track the trajectories of stars within the potential, ramp model, Gaussian velocity distribution, Fourier analysers and so on.  
 
+**What kind of stellar orbits are we searching for?** We need to fourier anlyse the orbits with high eccentricity and toroidal.
+
+<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture3.png" width="800" height="600"/>
+
 **Levitation:** The following diagram demonstrates the levitaion process after modelling the velocity of 500 stellar orbits as having a Gaussian distribution.
 
 <img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture1.png" width="800" height="600"/>
