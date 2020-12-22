@@ -13,8 +13,6 @@
 
 **Result**: the colour indicated the initial velocity of the stellar orbit in z direction. Levitation occurs when Rmax is between 12.8(kpc) and 12.9(kpc).
 
-**How to detect the 1:1 resonance?:** Using Fourier analysis, I deduced that the mean motion resonance occurs with integer ratio of radial and vertical frequencies. The following plot demonstrates the resoances in a stellar orbit with a fixed potential.
+**How to detect the mean-motion resonance?:** Using Fourier analysis, I deduced that the mean motion resonance occurs with integer ratio of radial and vertical frequencies. The following plot demonstrates the 3:2 resoance in a stellar orbit with a fixed potential.
 
 <img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture2.png" width="700" height="500"/>
-
-**Result**: 1:1 resonance occurs when frequency is 0.0075 Myr^-1.
