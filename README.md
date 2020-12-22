@@ -9,7 +9,7 @@
 
 **What is the stellar Levitation?:** The formation of thick galactic disc is a result of the stellar levitation process. The resonant orbits levitate above the disc plane, while the non-resonant ones contract to the in-plane disc. The following diagram demonstrates the levitaion process after modelling the velocity of 500 stellar orbits as having a Gaussian distribution.
 
-<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture1.png" width="800" height="600"/>
+<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture1.png" width="800" height="540"/>
 
 **Result**: the colour indicated the initial velocity of the stellar orbit in z direction. Levitation occurs when Rmax is between 12.8(kpc) and 12.9(kpc).
 
