@@ -5,7 +5,7 @@
 
 **What kind of stellar orbits are we searching for?** We need to fourier anlyse the orbits with high eccentricity and toroidal as follows. The color bar indicates the time in the unit of Myrs.
 
-<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture3.png" width="800" height="600"/>
+<img src="https://github.com/JialunSimonLiu/Levitation/blob/main/Picture/Picture3.png" width="720" height="540"/>
 
 **What is the stellar Levitation?:** The formation of thick galactic disc is a result of the stellar levitation process. The resonant orbits levitate above the disc plane, while the non-resonant ones contract to the in-plane disc. The following diagram demonstrates the levitaion process after modelling the velocity of 500 stellar orbits as having a Gaussian distribution.
 
