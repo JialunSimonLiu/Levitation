@@ -1,5 +1,4 @@
-# Heating Discs and Levitation
-**How to run the codes?** Download all the files from https://github.com/PaulMcMillan-Astro/GalPot.git. Then, run the file newpotcalc4.cpp with the following command: g++ -O3 newpotcalc4.cpp -std=c++11 -pthread ./GalPot-master/obj/libPot.a -Wl,-rpath,./GalPot-master/obj -I /usr/include/gsl/1.16-gcc/include/ -L /usr/include/gsl/1.16-gcc/lib/ -lgsl -lgslcblas -lm -I /usr/include/gsl/gsl_spline.h:47:1/ -L /usr/include/gsl/gsl_spline.h:47:1/ -lgsl -lgslcblas -lm -o ./a
+# Heating Discs and Stellar Levitation
 
 **What is the algorithm about?** To investigate the stellar levitation upon a heating disk, the algorithm contains simple orbit simulations of stars in the McMillan (2017) potential, a leapfrog algorithm to track the trajectories of stars within the potential, ramp model, Gaussian velocity distribution, Fourier analysers and so on.  
 
